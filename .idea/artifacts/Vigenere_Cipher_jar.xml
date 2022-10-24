@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Vigenere Cipher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Vigenere_Cipher_jar</output-path>
+    <root id="archive" name="Vigenere Cipher.jar">
+      <element id="module-output" name="Vigenere Cipher" />
+    </root>
+  </artifact>
+</component>
